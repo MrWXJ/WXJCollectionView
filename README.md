@@ -1,0 +1,2 @@
+# WXJCollectionView
+对UICollectionView进行二次封装，调用更方便
